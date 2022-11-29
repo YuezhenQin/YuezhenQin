@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @YuezhenQin
+- 👋 Hi, I’m @Yuezhen Qin
 - 👀 I’m interested in full stack dev.
-- 🌱 I’m currently learning CS at UniOfWarwick
+- 🌱 I’m currently learning CS at Uni of Warwick
 - 💞️ I’m looking to collaborate on tiny project
 - 📫 How to reach me: yuezhen.qin.uk@gmail.com
 
