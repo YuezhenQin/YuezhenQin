@@ -2,7 +2,7 @@
 
 He works on full stack dev.
 
-He is currently studying MSc Computer Science  at University of Warwick.
+He is currently pursuring MSc Computer Science degree at University of Warwick.
 
 In his spare time, he blogs about travel around the world.
 
