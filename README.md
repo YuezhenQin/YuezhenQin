@@ -1,4 +1,4 @@
-@Yuezhen Qin is a software developer in Beijing, China.
+@Yuezhen Qin is a software developer from Beijing, China.
 
 He works on full stack dev.
 
