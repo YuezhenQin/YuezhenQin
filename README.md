@@ -4,7 +4,7 @@ He works on full stack dev.
 
 He is currently pursuring MSc Computer Science degree at University of Warwick.
 
-In his spare time, he blogs about traveling around the world (United Kingdom (England, Scotland, Wales), France, Netherland, Belgium, Italy).
+In his spare time, he blogs about traveling around the world (United Kingdom (England, Scotland, Wales), France, Netherland, Belgium, Italy, China).
 
 <!---
 YuezhenQin/YuezhenQin is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
