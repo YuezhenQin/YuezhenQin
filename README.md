@@ -12,6 +12,6 @@ In his spare time, he blogs about traveling around the world (United Kingdom (En
 YuezhenQin/YuezhenQin is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
-[![YuezhenQin's GitHub stats](https://github-readme-stats.vercel.app/api?username=YuezhenQin)](https://github.com/YuezhenQin/github-readme-stats)
+
 
 ![](https://komarev.com/ghpvc/?username=YuezhenQin&color=ff69b4)
