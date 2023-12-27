@@ -6,7 +6,7 @@ He works on full stack.
 
 
 
-In his spare time, he blogs about traveling around the world (United Kingdom (England, Scotland, Wales), France (Paris), Belgium (Brussels), Netherland (Rotterdam, The Hague, Amsterdam), Italy 🇮🇹(Rome, Venice, Verona, Milan), China (Beijing, Suzhou, Shanghai, Hangzhou, HeilongJiang)).
+In his spare time, he blogs about traveling around the world (United Kingdom (England, Scotland, Wales), France (Paris), Belgium (Brussels), Netherland (Rotterdam, The Hague, Amsterdam), Italy 🇮🇹(Rome, Venice, Verona, Milano), China (Beijing, Suzhou, Shanghai, Hangzhou, HeilongJiang)).
 
 <!---
 YuezhenQin/YuezhenQin is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
