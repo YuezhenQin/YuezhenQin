@@ -13,16 +13,4 @@ YuezhenQin/YuezhenQin is a ✨ special ✨ repository because its `README.md` (t
 You can click the Preview link to take a look at your changes.
 --->
 
-<pre>
-　　　 　　／＞　　フ
-　　　 　　| 　_　 _ l
-　 　　 　／` ミ＿xノ
-　　 　 /　　　 　 |
-　　　 /　 ヽ　　 ﾉ
-　 　 │　　|　|　|
-　／￣|　　 |　|　|
-　| (￣ヽ＿_ヽ_)__)
-　＼二つ
-</pre>
-
 ![](https://komarev.com/ghpvc/?username=YuezhenQin&color=ff69b4)
