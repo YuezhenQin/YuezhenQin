@@ -1,6 +1,6 @@
 @Yuezhen Qin is a software developer from Beijing, China. His background is that I live in Guangzhou, China and studied Computer Science at the University of Warwick. 
 
-He implements data structures, algorithms, and worked on full stack. 
+He implements data structures, algorithms, and worked on full stack. Now he places his focus on blockchain and smart contract security.
 
 As you look around, you’ll notice they are the main topics on his website. He maintain this website to share stuff that is meaningful to him, including:
 1. Explaining his understanding of how things work.
