@@ -2,7 +2,7 @@
 
 He implements data structures, algorithms, and worked on full stack. Now he places his focus on blockchain and smart contract security.
 
-He maintains this website to share stuff that is meaningful to him, including:
+He maintains this space to share stuff that is meaningful to him, including:
 1. Explaining his understanding of how things work.
 2. Showcasing his work for its quality or uniqueness.
 3. Talking about one of his personal circumstances.
