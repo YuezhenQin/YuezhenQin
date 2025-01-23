@@ -1,4 +1,4 @@
-@Yuezhen Qin is a software developer from Beijing, China. His background is that he lives in Guangzhou, China and studied Computer Science at the University of Warwick. 
+@Yuezhen Qin is a software developer from Beijing, China. He lives in Guangzhou, China and studied MSc. CompSci at the University of Warwick. 
 
 He implements data structures, algorithms, and worked on full stack. Now he places his focus on blockchain and smart contract security.
 
