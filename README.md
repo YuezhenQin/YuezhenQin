@@ -1,4 +1,4 @@
-@Yuezhen Qin is a software developer from Beijing, China. He works and lives in Guangzhou, China.
+@Yuezhen Qin is a software developer from Beijing, China.
 
 He writes down code to express himself. He implements data structures, algorithms, and worked on full stack. Now he places his focus on digital money and assets.
 
