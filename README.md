@@ -18,7 +18,15 @@ He maintains this space to share stuff that is meaningful to him, including:
 -->
 
 
-In his spare time, he blogs about traveling around the world - United Kingdom (England, Scotland, Wales), France (Paris), Belgium (Brussels), Netherland (Rotterdam, The Hague, Amsterdam), 🇮🇹 Italy (Rome, Venice, Verona, Milano), China (Beijing (where I lived), Suzhou (where I studied), Shanghai (where I worked), Hangzhou, Harbin, Guangzhou (where I'm living), Shenzhen, Datong), Indonesia, United States.
+In his spare time, he blogs about traveling around the world 
+- United Kingdom (England, Scotland, Wales),
+- France (Paris),
+- Belgium (Brussels),
+- Netherland (Rotterdam, The Hague, Amsterdam),
+- Italy (Rome, Venice, Verona, Milano),
+- China (Beijing (where I lived), Suzhou (where I studied), Shanghai (where I worked), Hangzhou, Harbin, Guangzhou (where I'm living), Shenzhen, Datong),
+- Indonesia,
+- United States.
 
 <!---
 YuezhenQin/YuezhenQin is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
