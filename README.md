@@ -1,6 +1,6 @@
 @Yuezhen Qin is a software developer from Beijing, China.
 
-He writes down code to express himself. He implements data structures, algorithms, and worked on full stack. Now he places his focus on digital money and assets.
+He writes down code to express himself. He implements data structures, algorithms, and worked on full stack. Now he places his focus on digital assets and currencies.
 
 He maintains this space to share stuff that is meaningful to him, including:
 1. Explaining his understanding of how things work.
