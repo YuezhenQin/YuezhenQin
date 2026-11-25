@@ -24,9 +24,10 @@ In his spare time, he blogs about traveling around the world
 - Belgium (Brussels),
 - Netherland (Rotterdam, The Hague, Amsterdam),
 - Italy (Rome, Venice, Verona, Milano),
-- China (Beijing (where I lived), Suzhou (where I studied), Shanghai (where I worked), Hangzhou, Harbin, Guangzhou (where I'm living), Shenzhen, Datong),
+- China (Beijing (where I lived), Suzhou (where I studied), Shanghai (where I worked), Hangzhou, Harbin, Guangzhou (where I'm living), Shenzhen, Datong, Zhuhai),
 - Indonesia,
-- United States.
+- United States,
+- Vietnam
 
 <!---
 YuezhenQin/YuezhenQin is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
